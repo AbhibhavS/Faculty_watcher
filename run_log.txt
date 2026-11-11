@@ -10833,3 +10833,49 @@
 [2026-11-11 04:38:58] Checking:Testing-https://en.wikipedia.org/wiki/Special:RecentChanges?hidebots=1&hidecategorization=1&hideWikibase=1&limit=50&days=1&urlversion=2 
 [2026-11-11 04:38:58]   -> CHANGE DETECTED 
 [2026-11-11 04:39:00] Telegram notification sent. 
+[2026-11-11 13:30:58] Checking:IIT Goa-https://iitgoa.ac.in/faculty-position/ 
+[2026-11-11 13:31:58] ERROR fetchinghttps://iitgoa.ac.in/faculty-position/:cannot open URL 'https://iitgoa.ac.in/faculty-position/' 
+[2026-11-11 13:31:58]   -> skipped (fetch failed) 
+[2026-11-11 13:31:58] Checking:IIT Jammu-https://iitjammu.ac.in/faculty-search-cum-selection 
+[2026-11-11 13:32:02]   -> no change 
+[2026-11-11 13:32:03] Checking:IIT Dharwad-https://www.iitdh.ac.in/faculty-recruitment 
+[2026-11-11 13:32:05]   -> no change 
+[2026-11-11 13:32:06] Checking:IIT (ISM) Dhanbad-https://www.iitism.ac.in/faculty-positions 
+[2026-11-11 13:32:08]   -> CHANGE DETECTED 
+[2026-11-11 13:32:09] Checking:IIT Tirupati-https://www.iittp.ac.in/facultyrecruitment 
+[2026-11-11 13:32:10]   -> no change 
+[2026-11-11 13:32:11] Checking:IIT Palakkad-https://facap.iitpkd.ac.in/ 
+[2026-11-11 13:32:15]   -> no change 
+[2026-11-11 13:32:16] Checking:IIT Mandi-https://iitmandi.ac.in/recruitments/teaching 
+[2026-11-11 13:32:17]   -> no change 
+[2026-11-11 13:32:18] Checking:IIT Indore-https://www3.iiti.ac.in/recruitments/faculty-positions 
+[2026-11-11 13:32:20]   -> no change 
+[2026-11-11 13:32:21] Checking:IIT Ropar-https://www.iitrpr.ac.in/faculty-positions 
+[2026-11-11 13:32:22]   -> no change 
+[2026-11-11 13:32:23] Checking:IIT Patna-https://www.iitp.ac.in/notices 
+[2026-11-11 13:32:25]   -> no change 
+[2026-11-11 13:32:26] Checking:IIT Jodhpur-https://erponline.iitj.ac.in/Jobs/auth/facapps.htm 
+[2026-11-11 13:32:27] ERROR fetchinghttps://erponline.iitj.ac.in/Jobs/auth/facapps.htm:cannot open URL 'https://erponline.iitj.ac.in/Jobs/auth/facapps.htm' 
+[2026-11-11 13:32:27]   -> skipped (fetch failed) 
+[2026-11-11 13:32:27] Checking:IIT Hyderabad-https://iith.ac.in/careers/ 
+[2026-11-11 13:32:29]   -> CHANGE DETECTED 
+[2026-11-11 13:32:30] Checking:IIT Gandhinagar-https://iitgn.ac.in/careers/faculty-rolling 
+[2026-11-11 13:32:31]   -> no change 
+[2026-11-11 13:32:32] Checking:IIT Bhubaneswar-https://www.iitbbs.ac.in/index.php/faculty-affairs/faculty-recruitment/ 
+[2026-11-11 13:32:35]   -> no change 
+[2026-11-11 13:32:36] Checking:IIT Roorkee-https://iitr.ac.in/Careers/Faculty%20Positions/index.html 
+[2026-11-11 13:32:38]   -> no change 
+[2026-11-11 13:32:39] Checking:IIT Guwahati-https://iitg.ac.in/iitg_page_details?page=61/fac_rec 
+[2026-11-11 13:32:41]   -> no change 
+[2026-11-11 13:32:42] Checking:IIT Delhi-https://home.iitd.ac.in/jobs-iitd/index.php 
+[2026-11-11 13:32:45]   -> CHANGE DETECTED 
+[2026-11-11 13:32:46] Checking:IIT Kanpur-https://iitk.ac.in/eco/faculty-recruitment 
+[2026-11-11 13:32:48]   -> no change 
+[2026-11-11 13:32:49] Checking:IIT Madras-https://facapp.iitm.ac.in/ 
+[2026-11-11 13:32:49] ERROR fetchinghttps://facapp.iitm.ac.in/:cannot open URL 'https://facapp.iitm.ac.in/' 
+[2026-11-11 13:32:49]   -> skipped (fetch failed) 
+[2026-11-11 13:32:49] Checking:IIT Kharagpur-https://erp.iitkgp.ac.in/Jobs/auth/facapps.htm 
+[2026-11-11 13:32:51]   -> no change 
+[2026-11-11 13:32:52] Checking:Testing-https://en.wikipedia.org/wiki/Special:RecentChanges?hidebots=1&hidecategorization=1&hideWikibase=1&limit=50&days=1&urlversion=2 
+[2026-11-11 13:32:53]   -> CHANGE DETECTED 
+[2026-11-11 13:32:54] Telegram notification sent. 
